@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gui_db">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../UTD Courses/19Fall/CS6360Database_design/P1/jxs178130_cs6360/BookManagement/jdbc/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../UTD Courses/19Fall/CS6360Database_design/P1/jxs178130_cs6360/BookManagement/jdbc/org.apache.commons.lang_2.6.0.v201404270220.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../UTD Courses/19Fall/CS6360Database_design/P1/jxs178130_cs6360/BookManagement/jdbc/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../UTD Courses/19Fall/CS6360Database_design/P1/jxs178130_cs6360/BookManagement/jdbc/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
